@@ -38,7 +38,13 @@ Money Tracker is a full-stack web application designed to help users efficiently
 - Real-time Analysis: The frontend fetches data, updates UI, and generates reports.
 - Visual Insights: Charts provide a clear understanding of financial habits.
 
+## 👩‍💻 Environment Variables
 
+To run this project, you will need to add the following environment variables to your .env file
+
+`PORT`
+
+`MONGO_URL`
 
 ## 📌 Installation & Setup
 
@@ -70,10 +76,4 @@ cd frontend
 npm start  
 ```
 
-## 👩‍💻 Environment Variables
 
-To run this project, you will need to add the following environment variables to your .env file
-
-`PORT`
-
-`MONGO_URL`
