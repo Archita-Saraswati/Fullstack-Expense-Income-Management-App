@@ -27,6 +27,7 @@ Money Tracker is a full-stack web application designed to help users efficiently
 
 - Express.js: Server-side API handling
 - Mongoose: MongoDB object modeling for database management
+- CORS: Secure cross-origin requests
 - Nodemon: Hot reloading during development
 
 
@@ -39,7 +40,7 @@ Money Tracker is a full-stack web application designed to help users efficiently
 
 
 
-## 📌 Run Locally
+## 📌 Installation & Setup
 
 Clone the repository:
 
