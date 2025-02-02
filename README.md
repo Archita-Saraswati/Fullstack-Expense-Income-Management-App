@@ -52,7 +52,13 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/Money-Tracker-App.git
-cd Money-Tracker-App  
+
+```
+Go to the project directory
+
+```bash
+cd Money-Tracker-App
+
 ```
 
 Install dependencies for both frontend & backend:
