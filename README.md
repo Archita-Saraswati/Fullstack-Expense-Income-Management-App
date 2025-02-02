@@ -51,8 +51,8 @@ To run this project, you will need to add the following environment variables to
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/money-tracker.git 
-cd money-tracker  
+git clone https://github.com/Archita-Saraswati/Money-Tracker-App.git
+cd Money-Tracker-App  
 ```
 
 Install dependencies for both frontend & backend:
