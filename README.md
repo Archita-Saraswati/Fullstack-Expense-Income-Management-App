@@ -54,7 +54,7 @@ Clone the repository:
 git clone https://github.com/yourusername/Money-Tracker-App.git
 
 ```
-Go to the project directory
+Go to the project directory:
 
 ```bash
 cd Money-Tracker-App
