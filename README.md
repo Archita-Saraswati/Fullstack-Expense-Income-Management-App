@@ -51,13 +51,13 @@ To run this project, you will need to add the following environment variables to
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Fullstack Expense & Income Management App.git
+git clone https://github.com/yourusername/Fullstack-Expense-Income-Management-App.git
 
 ```
 Go to the project directory:
 
 ```bash
-cd Fullstack Expense & Income Management App
+cd Fullstack-Expense-Income-Management-App
 
 ```
 
