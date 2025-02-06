@@ -1,5 +1,5 @@
 
-# 💰 Money Tracker
+# 💰 Fullstack Expense & Income Management App
 
 Money Tracker is a full-stack web application designed to help users efficiently track their income and expenses. With real-time updates and insightful visualizations, it enables users to manage their finances with ease.
 
@@ -51,13 +51,13 @@ To run this project, you will need to add the following environment variables to
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/Money-Tracker-App.git
+git clone https://github.com/yourusername/Fullstack Expense & Income Management App.git
 
 ```
 Go to the project directory:
 
 ```bash
-cd Money-Tracker-App
+cd Fullstack Expense & Income Management App
 
 ```
 
